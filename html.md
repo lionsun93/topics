@@ -125,12 +125,12 @@
 
 ### 7.1 Table Structure
 
-* 7.1.1 <table>, <tr>, <td>, <th>
+* 7.1.1 `<table>`, `<tr>`, `<td>`, `<th>`
 
 ### 7.2 Table Semantics
 
-* 7.2.1 <caption>
-* 7.2.2 <thead>, <tbody>, <tfoot>
+* 7.2.1 `<caption>`
+* 7.2.2 `<thead>`, `<tbody>`, `<tfoot>`
 
 ### 7.3 Accessible Tables
 
