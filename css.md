@@ -1,10 +1,10 @@
 # CSS — Complete Learning TOC
 
 1. Foundations of CSS
-  1. What CSS Is and How It Works
-    1. Role of CSS in the web (HTML–CSS–JS separation)
-    1. How browsers parse and apply CSS
-    1. Author styles vs user agent styles
+    1. What CSS Is and How It Works
+        1. Role of CSS in the web (HTML–CSS–JS separation)
+        1. How browsers parse and apply CSS
+        1. Author styles vs user agent styles
 
 ### 1.2 Ways to Write CSS
 
