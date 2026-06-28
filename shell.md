@@ -1,5 +1,31 @@
 # Shell Scripting (Linux / Bash)
 
+Introduction to Bash
+Running scripts
+Comments
+Variables
+Environment variables
+Quoting
+Command substitution
+Arithmetic
+Reading user input
+Conditionals (if)
+case
+Loops (for, while, until)
+Functions
+Positional parameters
+Command-line arguments
+Arrays
+String manipulation
+File tests
+Exit codes
+Pipes and redirection
+Here documents
+Process management
+Error handling
+Debugging
+Writing production-quality Bash scripts
+
 1. Foundations
     1. What Is a Shell?
         - Role of the shell in Unix/Linux
